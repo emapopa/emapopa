@@ -1,3 +1,6 @@
+
+<p align="center"> <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="emapopa" /> </p>
+
 <h1 align="center">Hi 👋, I'm Emanuel Popa</h1>
 <h3 align="center">Ux/Ui designer and frontend developer</h3>
 
